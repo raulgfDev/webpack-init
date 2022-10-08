@@ -19,6 +19,3 @@ two webpack.config files i.Dev ii.Prod, rr dev file is the same when webpack-ser
 ```npm install``` for the "node_module" directory, take like model the dependencies of "package.json" file.
 Relation with .gitignore that applies over "node_module" and "dist" directories.
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
-
-Pero esto lo veremos en la siguiente sección
