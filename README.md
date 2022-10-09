@@ -18,7 +18,7 @@ git branch -M main
 git push -u origin main
 ```
 
-a partir de aquí ya definodo origin en repositorio remoto, simplemente vale con ```git push```
+from here, it is defined alredy 'origin' in remote repository  ```git push```
 
 ```npm init -y``` = without question.
 
@@ -38,4 +38,6 @@ two webpack.config files i.Dev ii.Prod, rr dev file is the same when webpack-ser
 
 ```npm install``` for the "node_module" directory, take like model the dependencies of "package.json" file.
 Relation with .gitignore that applies over "node_module" and "dist" directories.
+
+Github pages, necessary rename 'dist' to 'docs' (with this, avoid .gitignore), afterwards git add, commit and push. Finally, go to option in github pages. 
 
