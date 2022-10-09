@@ -1,11 +1,22 @@
 # Webpack configurado
 ".gitignore" at the beginnig the project.
 
-after ```git init 
+after 
+```
+git init 
+```
+```
 git commit -m "init" 
+```
+```
 git remote add origin https://github.com/raulgfDev/webpack-init.git
+```
+```
 git branch -M main
-git push -u origin main``` 
+```
+```
+git push -u origin main
+```
 
 a partir de aquí ya definodo origin en repositorio remoto, simplemente vale con ```git push```
 
